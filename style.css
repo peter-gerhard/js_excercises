@@ -1,0 +1,16 @@
+
+
+body {
+    margin: 0;
+}
+
+#headlines {
+    position: absolute;
+    white-space: nowrap;
+    left: 100%;
+    font-size: 28px;
+}
+
+#headlines a {
+    padding-right: 30px;
+}
